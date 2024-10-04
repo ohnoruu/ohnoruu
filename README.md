@@ -1,13 +1,13 @@
-# Programmer for fun at WHS
+**Programmer for fun at WHS**
 - Strategy & App Dev Lead for FRC Team 8521 Cyberlions
 - WHS CS Club Mentor/Board Member
 
-# Current Skills
+__Current Skills:__
 - Python
 - HTML & CSS
 - JavaScript
 
-# Currently Learning:
+__Currently Learning:__
 - Java
 - Arduino
 
