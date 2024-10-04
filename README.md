@@ -7,9 +7,9 @@
 - HTML & CSS
 - JavaScript
 
-  # Currently Learning:
-  - Java
-  - Arduino
+# Currently Learning:
+- Java
+- Arduino
 
 <!---
 ohnoruu/ohnoruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
