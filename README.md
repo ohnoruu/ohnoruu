@@ -10,6 +10,7 @@ __Current Skills:__
 __Currently Learning:__
 - Java
 - Arduino
+- Deep Learning models
 
 <!---
 ohnoruu/ohnoruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
