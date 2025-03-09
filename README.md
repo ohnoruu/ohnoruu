@@ -1,5 +1,5 @@
-**Programmer for fun at WHS**
-- Strategy & App Dev Lead for FRC Team 8521 Cyberlions
+**Student Programmer at WHS**
+- Strategy & App Development Lead for FRC Team 8521 Cyberlions
 - WHS CS Club Mentor/Board Member
 
 __Current Skills:__
@@ -10,7 +10,7 @@ __Current Skills:__
 __Currently Learning:__
 - Java
 - Arduino
-- Deep Learning models
+- Deep Learning
 
 <!---
 ohnoruu/ohnoruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
